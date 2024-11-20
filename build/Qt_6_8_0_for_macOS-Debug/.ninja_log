@@ -92,3 +92,6 @@
 117	138	1732022569352576921	/Users/ccr/Documents/课程/网络程序设计/lab1/build/Qt_6_8_0_for_macOS-Debug/lab1_autogen/mocs_compilation.cpp	326efa71b51f3162
 138	951	1732022569374447636	CMakeFiles/lab1.dir/mainwindow.cpp.o	d53867c1e5eee47b
 951	1047	1732022570187553239	lab1.app/Contents/MacOS/lab1	313c5345efd7945f
+20	327	1732110374767794712	/Users/ccr/Documents/课程/网络程序设计/lab1/build/Qt_6_8_0_for_macOS-Debug/CMakeFiles/cmake.verify_globs	a06f6bba65fe4a46
+327	337	1732110375074622414	CMakeFiles/clean.additional	111ec488e4dbc02f
+337	341	1732110375084382041	clean	1e28b25d193d624b
